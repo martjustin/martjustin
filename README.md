@@ -40,9 +40,7 @@ for browser automation. I care about test architecture — not just "does the te
 | Project | What It Tests | Stack |
 |---------|--------------|-------|
 | [paystack-api-sentinel](https://github.com/martjustin/paystack-api-sentinel) | Paystack payment API — transactions, customers, webhooks | Python · pytest |
-| [playwright-checkout-guardian](https://github.com/martjustin/playwright-checkout-guardian) | E-commerce checkout flows, cart edge cases, cross-browser | TypeScript · Playwright |
-| [flutterwave-contract-tests](https://github.com/martjustin/flutterwave-contract-tests) | API schema validation & contract testing for payment webhooks | Python · pydantic |
-| [neobank-performance-watchdog](https://github.com/martjustin/neobank-performance-watchdog) | Load & performance testing for banking API endpoints | Python · Locust |
+| [playwright-checkout-guard](https://github.com/martjustin/playwright-checkout-guard) | E-commerce checkout flows, cart edge cases, cross-browser | TypeScript · Playwright |
 
 ---
 
