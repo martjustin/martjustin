@@ -3,10 +3,10 @@
 <div align="center">
 
 # Hi, I'm Martin Justin 👋👋
-### QA Automation Engineer · Python · TypeScript · Playwright · API Testing
+### QA Automation Engineer · Python · TypeScript · Playwright · API Testing| AI Workflow Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/justin808)
-[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](justin_m01@outlook.com)
+[![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](martinjustin1964@gmail.com)
 
 </div>
 
@@ -17,8 +17,7 @@
 I design and build test automation frameworks that catch real bugs — not just demos.
 My focus: **fintech apps, e-commerce platforms, and APIs** where broken flows cost real money.
 
-Currently working with **Python (pytest)** for API testing and **TypeScript (Playwright)**
-for browser automation. I care about test architecture — not just "does the test pass."
+I care about test architecture — not just "does the test pass" and building AI Workflow Automations that saves time and effort.
 
 ---
 
@@ -27,7 +26,7 @@ for browser automation. I care about test architecture — not just "does the te
 | Area | Tools |
 |------|-------|
 | **API Testing** | Python · pytest · requests · pydantic | Postman
-| **Browser Automation** | TypeScript · Playwright · Page Object Model |
+| **Browser Automation** | TypeScript · Playwright · Selenium|
 | **CI/CD** | GitHub Actions |
 | **Performance** | Locust · Android Profiler |
 | **Mobile** | Appium · Android Studio · BrowserStack |
@@ -44,20 +43,8 @@ for browser automation. I care about test architecture — not just "does the te
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Martin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=martjustin&show_icons=true&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ### 📚 Currently Learning
-- Playwright Component Testing
-- API Contract Testing with Pact
-- Mobile test automation with Appium + WebDriverIO
+- Security Testing(Burp Suite and Metasploit)
 
 ---
 
