@@ -39,8 +39,8 @@ I care about test architecture — not just "does the test pass" and building AI
 
 | Project | What It Tests | Stack |
 |---------|--------------|-------|
-| [paystack-api-sentinel](https://github.com/martjustin/paystack-api-sentinel) | Paystack payment API — transactions, customers, webhooks | Python · pytest |
-| [playwright-checkout-guard](https://github.com/martjustin/playwright-checkout-guard) | E-commerce checkout flows, cart edge cases, cross-browser | TypeScript · Playwright |
+| [Helix-Heal](https://github.com/martjustin/helix-heal)|Local-first selector healing for Playwright Suites | Python · Typescript | Playwright
+| [Playwright-checkout-guard](https://github.com/martjustin/playwright-checkout-guard)| E-commerce checkout flows, cart edge cases, cross-browser | TypeScript · Playwright |
 
 ---
 
