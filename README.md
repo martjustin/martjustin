@@ -44,9 +44,6 @@ I care about test architecture — not just "does the test pass" and building AI
 
 ---
 
-### 📚 Currently Learning
-- Security Testing(Burp Suite and Metasploit)
-
 ---
 
 > *"Quality is not an act, it is a habit." — Testing things properly, every single time.*
