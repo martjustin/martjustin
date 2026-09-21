@@ -29,7 +29,7 @@ I care about test architecture — not just "does the test pass" and building AI
 | **API Testing** | Python · pytest · requests · pydantic | Postman
 | **Browser Automation** | TypeScript · Playwright · Selenium|
 | **CI/CD** | GitHub Actions |
-| **Performance** | Locust · Android Profiler |
+| **Performance** | Locust · Android Profiler | Jmeter
 | **Mobile** | Appium · Android Studio · BrowserStack |
 | **Reporting** | Allure · pytest-html · Playwright HTML Reports |
 
