@@ -3,7 +3,8 @@
 <div align="center">
 
 # Hi, I'm Martin Justin 👋👋
-### QA Automation Engineer · Python · TypeScript · Playwright · API Testing| AI Workflow Automation
+
+### QA Automation Engineer · Python · · Playwright ·· API Testing| AI Testing ··|AI workflow automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/justin808)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:martinjustin1964@gmail.com?subject=Job%20Opportunity&body=Hello%20Martin,)
@@ -16,9 +17,9 @@
 ### 🧪 What I Do
 
 I design and build test automation frameworks that catch real bugs — not just demos.
-My focus: **fintech apps, e-commerce platforms, and APIs** where broken flows cost real money.
+My focus: *E-commerce platforms, and APIs** where broken flows cost real money.
 
-I care about test architecture — not just "does the test pass" and building AI Workflow Automations that saves time and effort.
+I care about test architecture — not just "does the test pass" and building AI integrations & Workflow Automations that save time and effort.
 
 ---
 
@@ -27,7 +28,7 @@ I care about test architecture — not just "does the test pass" and building AI
 | Area | Tools |
 |------|-------|
 | **API Testing** | Python · pytest · requests · pydantic | Postman
-| **Browser Automation** | TypeScript · Playwright · Selenium|
+| **Browser Automation** | Python · Playwright · Selenium|
 | **CI/CD** | GitHub Actions |
 | **Performance** | Locust · Android Profiler | Jmeter
 | **Mobile** | Appium · Android Studio · BrowserStack |
