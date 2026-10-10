@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/justin808)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:martinjustin1964@gmail.com?subject=Job%20Opportunity&body=Hello%20Martin,)
-[![Portfolio](https://martin-justin-portfolio.vercel.app)
+[Portfolio](https://martin-justin-portfolio.vercel.app)
 
 
 </div>
