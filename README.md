@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# Hi, I'm Martin Justin 👋👋
+# Hi, I'm Martin Justin 👋
 
-### SQA Engineer ·· Test Automation ·· ·· API Testing ·· AI/LLM Testing ·· AI workflow automation
+### SQA Engineer|Test Automation|AI/LLM Testing|AI workflow automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/justin808)
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:martinjustin1964@gmail.com?subject=Job%20Opportunity&body=Hello%20Martin,)
