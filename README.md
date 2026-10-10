@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:martinjustin1964@gmail.com?subject=Job%20Opportunity&body=Hello%20Martin,)
 
 
-<div align = "center" "[Portfolio](https://martin-justin-portfolio.vercel.app)" > </div>
 
 
 </div>
